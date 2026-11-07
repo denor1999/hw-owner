@@ -7,3 +7,5 @@ out/
 gradlew
 gradlew.bat
 settings.gradle
+
+allure-results
